@@ -1,6 +1,8 @@
 ## I´m student Java☕ 
 <div align="center">
  
+ 
+ 
  <img align="right" alt="Ray-gif-right" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif">
  
  <img align="left" alt="Ray-gif-left" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif">
@@ -24,7 +26,19 @@
   <a href="https://www.linkedin.com/in/raylander-henrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
+ 
+ 
+ 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- <img align="center" alt="Rayy-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+ 
  
 </div>
+ 
+
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/rayy-san/count.svg" />
+ </p>
+ 
+ <img align="right" alt="Rayy-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  
+ <img align="center" alt="Rayy-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
